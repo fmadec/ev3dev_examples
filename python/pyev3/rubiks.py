@@ -1,5 +1,5 @@
 
-from ev3 import *
+from ev3dev2 import *
 from pprint import pformat
 from subprocess import check_output
 import json
